@@ -1,4 +1,3 @@
-from itertools import count
 import os 
 
 # * Get the relative path in a string fromat
